@@ -1,3 +1,16 @@
-Sagasu 探す -  search engine 
-![Screenshot 2022-08-27 220737](https://user-images.githubusercontent.com/105433273/187039599-401c2374-a160-4c7a-9bae-2c6315c850bf.png)
-website link - https://sagasu-search-jsm.netlify.app/search 
+# Goggl - The Most Unique Search Engine in the World
+
+![Goggl](https://i.ibb.co/yQdYhtq/image.png)
+
+## Introduction
+This is a code repository for the corresponding video tutorial. 
+
+In this video, we will create a Google Clone app. We're going to use React and Goole Search API powered by https://rapidapi.com.
+
+By the end of this video, you will become the master of working with APIs.
+
+Setup:
+- run ```npm i && npm start``` to start the development server
+
+## Stay up to date with new projects
+New major projects coming soon, subscribe to the mailing list to stay up to date https://resource.jsmasterypro.com/newsletter
